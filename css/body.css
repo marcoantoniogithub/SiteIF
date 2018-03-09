@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+h1 {
+	text-align: center;
+	font-family: 'Bigelow Rules';font-size: 50px;
+}
+
+#blocos {
+	width:100%;
+}
+#bloco1 {
+	margin-left: 40px;
+	float: left; width: 40%;
+	text-align: center;
+	background:#ff751a;
+	border-radius: 20px; 
+}
+#bloco2 {
+	float: right; width: 40%;
+	text-align: center;
+	margin-right:40px;
+	background: #00ff00;
+	border-radius: 20px; 
+}
