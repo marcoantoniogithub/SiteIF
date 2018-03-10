@@ -6,7 +6,7 @@ img	{
 	width:20%;
 }
 
-#menu ul {
+.menu ul {
     padding:2px;
     margin: 2px;
     background-color:#000;
@@ -14,7 +14,7 @@ img	{
     text-align: center;
 }
 
-#menu ul li {
+.menu ul li {
 	margin-right: 10px;
     padding: 1px 80px;
     display: inline-block;
@@ -23,7 +23,7 @@ img	{
     text-decoration: none;
     border-bottom:3px solid #FFF;
 }
-#menu ul li:hover {
+.menu ul li:hover {
     background-color:#e6e6ff;
     color: #ff6600;
     border-bottom:3px solid #ff6600;

@@ -5,6 +5,17 @@ h1 {
 	font-family: 'Bigelow Rules';font-size: 50px;
 }
 
+.block-container {
+	display:inline-flex;
+}
+
+.block-card {
+	margin: 0 auto;
+	width: 40%;
+	border: 2px solid black;
+	padding: 1%;
+}
+
 #blocos {
 	width:100%;
 }
@@ -13,12 +24,12 @@ h1 {
 	float: left; width: 40%;
 	text-align: center;
 	background:#ff751a;
-	border-radius: 20px; 
+	border-radius: 20px;
 }
 #bloco2 {
 	float: right; width: 40%;
 	text-align: center;
 	margin-right:40px;
 	background: #00ff00;
-	border-radius: 20px; 
+	border-radius: 20px;
 }
