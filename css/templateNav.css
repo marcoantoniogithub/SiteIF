@@ -32,7 +32,7 @@ img	{
 .menu-ul {
     padding:2px;
     margin: 2px;
-    background-color:#519696;
+    background-color:#3e7474;
     list-style:none;
     text-align: center;
 }
@@ -49,13 +49,17 @@ img	{
     margin-right: 10px;
     padding: 8px 80px;
     display: inline-block;
-    background-color:#519696;
+    background-color:#3e7474;
     color: #fff;
     text-decoration: none;
     border-bottom:3px solid #FFF;
 }
 .menu-ul-li:hover {
-    background-color:#e6e6ff;
-    color: #ff6600;
-    border-bottom:3px solid #ff6600;
+    background-color:#519696;
+    color: #ffffff;
+    border-bottom:3px solid #ffb366;
+    -webkit-box-shadow: 1px 1px 15px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    1px 1px 15px rgba(50, 50, 50, 0.77);
+    box-shadow:         1px 1px 15px rgba(50, 50, 50, 0.77);
 }
+/*ffb366 laranja - 519696 verde claro - 3e7474 verde escuro*/
