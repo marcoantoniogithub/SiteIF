@@ -21,7 +21,7 @@ img	{
     background-color:#468787;
     color: #fff;
     text-decoration: none;
-    border-bottom:3px solid #ffef99;
+    border-bottom:3px solid #FFF;
 }
 .menu ul li:hover {
     background-color:#e6e6ff;
@@ -29,11 +29,11 @@ img	{
     border-bottom:3px solid #ff6600;
 }
 
-.menu a 
+.menu a
 {
 text-decoration: none;
-color: #FFF;
-font-family: Arial, Helvetica, sans-serif;
+color: #fff;
+font-family: Arial, sans-serif;
 font-size: medium;
 font-weight: bold;
 letter-spacing: 1px;
