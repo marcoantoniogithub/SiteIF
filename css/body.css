@@ -39,3 +39,15 @@ h1 {
     cursor: pointer;
     outline: inherit;
 }
+
+.carousel-item {
+	width: 100%;
+	height: 5%;
+	
+}
+.index {
+   padding-left:0%;
+	float:middle;
+	width:100%;
+    display: block;
+}
